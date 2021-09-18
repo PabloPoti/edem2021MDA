@@ -12,7 +12,7 @@ El objetivo es eso, mostrar de forma **ordenada** y **visible**, tanto para mí 
 
 A continuación, se mostrará una **lista** de los **lenguajes y tecnologías empleadas** a lo largo del máster:
 
--
+- HTML5
 -
 -
 -
