@@ -17,13 +17,4 @@ A continuación, se mostrará una **lista** de los **lenguajes y tecnologías em
 -
 -
 
-**Síntesis** de los objetivos:
 
-```mermaid
-graph LR
-A[Objetivo Claro] -- Diligencia --> B((Programación))
-A --> C(Tratamiento del dato)
-B --> D{Éxito}
-C --> D
-
-```
